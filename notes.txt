@@ -1,1 +1,1 @@
-My QA automation repository
+My first QA automation repository
